@@ -117,4 +117,6 @@ function agregarGasto(e) {
 
   // Reinicia el formulario
   formulario.reset();
+
+  //Probando askojfas
 }
